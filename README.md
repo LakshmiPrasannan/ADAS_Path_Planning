@@ -1,6 +1,8 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 
+This repository is only for learning purpose and the simulator and supporting Data Files of Udacity aren't provided here. 
+
 ### Reflection - Detailed Model Documentation
 For the safe navigation of the car the co-rdinate system was converted to the car's co-ordinate using Frenet coordinates is a really easy way to specify which lane the car should be in as well as how far down the road it should be. In Frenet the two coordinates are d,s where d is the distance from the center of the road which cooresponds to the lane the car is in, and s is simply the distance along the highway.
 
