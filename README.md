@@ -1,7 +1,7 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 The output of this project can be watched in the following YouTube link - https://youtu.be/W_mXE3GYprc
-
+![Output Image](https://github.com/LakshmiPrasannan/ADAS_Path_Planning/blob/master/PathPlanning.png)
 This repository is only for learning purpose and the simulator and supporting Data Files of Udacity aren't provided here. 
 
 ### Reflection - Detailed Model Documentation
